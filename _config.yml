@@ -1,0 +1,14 @@
+url: http://kirbyt.github.io
+baseurl: /timeline-jekyll-theme
+
+# Site Settings
+title: Arbaaz Khan
+description: "Roboticist."
+keywords: "jekyll, theme"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/1.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]

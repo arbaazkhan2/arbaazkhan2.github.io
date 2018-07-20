@@ -1,0 +1,8 @@
+---
+layout: null
+title: May 2015 - August 2015
+subtitle:
+image: "img/timeline/teaser2.png"
+---
+CMU-RI Summer Scholar. \\
+Worked with Martial Hebert and Drew Bagnell on pose fusion for flying UAVs in GPS denied cluttered environments

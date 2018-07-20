@@ -1,0 +1,8 @@
+---
+layout: null
+title: January 2016 - May 2016
+subtitle:
+image: "img/timeline/2.jpg"
+---
+Research Assistant at CMU-RI. Research on using deep learning to 
+learn recovery manoeuvres for UAVs. 
