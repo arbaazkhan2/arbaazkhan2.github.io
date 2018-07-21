@@ -80,7 +80,7 @@ th {
     }
 
 	p.entry, table {
-		background-color: #fff;
+		background-color: #000;
 	/*background: repeating-linear-gradient(
 	  45deg,
 	  #111,
@@ -95,7 +95,7 @@ th {
 	}
 
 	th.entry {
-		background-color: #fff;	
+		background-color: #000;	
 		padding-top:9px;
 		padding-right:9px;
 		padding-bottom:9px;
