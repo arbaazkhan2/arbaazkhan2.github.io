@@ -122,7 +122,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #93015b;
+    color: #FFFF00;
 }
 
 .rein_green {
@@ -272,8 +272,8 @@ a.fa-youtube{
 
 
 .img-me{
-	width:200px;
-	height:200px;
+	width:150px;
+	height:150px;
 	display: inline-block;
 	display: block;
 	margin: 0 auto;
