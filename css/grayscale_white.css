@@ -33,17 +33,17 @@ margin-bottom: 2px;
 }
 .btn-default-x {
 
-    border: 1px solid #ffffff;
+    border: 1px solid #3261ef;
     outline: 0;
-    color: #ffffff;
+    color: #3261ef;
 background-color: transparent;
 }
 
 .btn-default-x:hover,
 .btn-default-x:focus {
-    border: 1px solid #ffffff;
+    border: 1px solid #3261ef;
     color: #fff;
-    background-color: #ffffff;
+    background-color: #3261ef;
 }
 
 
@@ -113,7 +113,7 @@ img {
 }
 
 a {
-    color: #fffff;
+    color: #5eef32;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -126,7 +126,7 @@ a:focus {
 }
 
 .rein_green {
-    color: #fffff;
+    color: #3261ef;
 }
 
 .light {
@@ -307,10 +307,10 @@ a.fa-youtube{
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 3px solid #fffff;
+    border: 3px solid #3261ef;
     border-radius: 100%!important;
     font-size: 40px;
-    color: #fffff;
+    color: #3261ef;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -320,7 +320,7 @@ a.fa-youtube{
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #fff;
+    color: #3261ef;
     background: rgba(255,255,255,.1);
 }
 
@@ -425,16 +425,16 @@ a.fa-youtube{
 
 .btn-default {
 
-    border: 1px solid #fffff;
+    border: 1px solid #3261ef;
     outline: 0;
     color: #fff;
-    background-color: #fffff;
+    background-color: #3261ef;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #fffff;
-    color: #fffff;
+    border: 1px solid #3261ef;
+    color: #3261ef;
     background-color: transparent;
 }
 

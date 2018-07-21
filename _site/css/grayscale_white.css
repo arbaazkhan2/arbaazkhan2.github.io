@@ -33,17 +33,17 @@ margin-bottom: 2px;
 }
 .btn-default-x {
 
-    border: 1px solid #fff;
+    border: 1px solid #3261ef;
     outline: 0;
-    color: #fff;
+    color: #3261ef;
 background-color: transparent;
 }
 
 .btn-default-x:hover,
 .btn-default-x:focus {
-    border: 1px solid #fff;
+    border: 1px solid #3261ef;
     color: #fff;
-    background-color: #ffffff;
+    background-color: #3261ef;
 }
 
 
@@ -80,7 +80,7 @@ th {
     }
 
 	p.entry, table {
-		background-color: #000;
+		background-color: #fff;
 	/*background: repeating-linear-gradient(
 	  45deg,
 	  #111,
@@ -95,7 +95,7 @@ th {
 	}
 
 	th.entry {
-		background-color: #000;	
+		background-color: #fff;	
 		padding-top:9px;
 		padding-right:9px;
 		padding-bottom:9px;
@@ -113,7 +113,7 @@ img {
 }
 
 a {
-    color: #2ee81e;
+    color: #5eef32;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -122,11 +122,11 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #FFFF00;
+    color: #93015b;
 }
 
 .rein_green {
-    color: #2481e5;
+    color: #3261ef;
 }
 
 .light {
@@ -307,10 +307,10 @@ a.fa-youtube{
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 3px solid #2481e5;
+    border: 3px solid #3261ef;
     border-radius: 100%!important;
     font-size: 40px;
-    color: #2481e5;
+    color: #3261ef;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -320,7 +320,7 @@ a.fa-youtube{
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #fff;
+    color: #3261ef;
     background: rgba(255,255,255,.1);
 }
 
@@ -425,16 +425,16 @@ a.fa-youtube{
 
 .btn-default {
 
-    border: 1px solid #2481e5;
+    border: 1px solid #3261ef;
     outline: 0;
     color: #fff;
-    background-color: #2481e5;
+    background-color: #3261ef;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #2481e5;
-    color: #ffffff;
+    border: 1px solid #3261ef;
+    color: #3261ef;
     background-color: transparent;
 }
 
